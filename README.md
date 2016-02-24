@@ -10,4 +10,5 @@
 <a> href= "http://www.w3schools.com/html/default.asp" This is a tutorial on how you can code! </a>
 <br>
 <!-- Before any more progress make sure this is getting updated in your webpage--> 
+<p> Trying to figure out how to publish the page will be difficult for instructions on how look up on github.com </p>
 
